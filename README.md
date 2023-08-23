@@ -1,3 +1,2 @@
 # PointerBubleSorting
-
- Exercises for pointer.
+Exercises for pointer.
