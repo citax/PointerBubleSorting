@@ -1,0 +1,3 @@
+C:/Users/Nikola/CLionProjects/BubleSorting/cmake-build-debug/CMakeFiles/BubleSorting.dir
+C:/Users/Nikola/CLionProjects/BubleSorting/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Nikola/CLionProjects/BubleSorting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
